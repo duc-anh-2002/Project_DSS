@@ -1,3 +1,5 @@
+Học phần: Hệ hỗ trợ quyết định (Decision Support System)
+
 Xây dựng hệ hỗ trợ quyết định dự báo doanh số bán hàng của siêu thị
 
 Dự báo trong 6 tháng tiếp theo gồm
